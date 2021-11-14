@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "p-reg";
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "p-bold";
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
